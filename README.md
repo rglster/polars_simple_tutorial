@@ -1,2 +1,3 @@
-# polars_simple_tutorial
-A simple tutorial in docusaurus style
+# Polars simple Tutorial
+
+This is a simple tutorial using docusaurus. Nothing more, nothing less.
